@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TIen.unity
     guid: 2a2a6a7a671be4745bdcb0efbc66a7cc
+  - enabled: 1
+    path: Assets/Scenes/Koniec Hry.unity
+    guid: 2763f0e657a8b0a45930b1af717f3ba0
   m_configObjects: {}
