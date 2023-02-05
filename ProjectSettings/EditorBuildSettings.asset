@@ -12,12 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Blue.unity
     guid: 1940edbe0850d3a4fa1106a55b609933
   - enabled: 1
-    path: Assets/Scenes/Koniec Hry.unity
+    path: Assets/Scenes/End.unity
     guid: 2763f0e657a8b0a45930b1af717f3ba0
-  - enabled: 1
-    path: "Assets/Scenes/Jednoduch\xE1sc\xE9na.unity"
-    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/TIen.unity
     guid: 2a2a6a7a671be4745bdcb0efbc66a7cc
+  - enabled: 1
+    path: Assets/Scenes/options.unity
+    guid: fb59b407c15fcc545a058ffb34bc582a
   m_configObjects: {}
